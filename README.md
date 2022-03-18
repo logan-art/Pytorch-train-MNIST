@@ -1,4 +1,6 @@
 # Pytorch-train-MNIST
+this is for a beginner
+
 a very simple net that uses pytorch to train MNIST and test 
 
 there are two ways to train(cpu or gpu)
